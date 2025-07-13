@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Amazon]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Iphone(failed)">
+    <parameter name="productDetails" value="iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium"/>
+    <parameter name="productName" value="iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control"/>
+    <classes>
+      <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest">
+        <methods>
+          <include name="ProductSerachLandingPageTest"/>
+          <include name="sleep"/>
+          <include name="setDriver"/>
+          <include name="killDriver"/>
+          <include name="SearchProductTest"/>
+          <include name="setPageObjects"/>
+          <include name="setupConfig"/>
+          <include name="HomePageTest"/>
+        </methods>
+      </class> <!-- com.yogesh.nipte.tests.amazon.products.SearchProductTest -->
+    </classes>
+  </test> <!-- Iphone(failed) -->
+  <test thread-count="5" parallel="tests" name="Realme(failed)">
+    <parameter name="productDetails" value="realme GT 7 (IceSense Blue,8GB+256GB) | India&#039;s 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene"/>
+    <parameter name="productName" value="realme gt 7 dream edition phone"/>
+    <classes>
+      <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest">
+        <methods>
+          <include name="ProductSerachLandingPageTest"/>
+          <include name="sleep"/>
+          <include name="setDriver"/>
+          <include name="killDriver"/>
+          <include name="SearchProductTest"/>
+          <include name="setupConfig"/>
+          <include name="setPageObjects"/>
+          <include name="HomePageTest"/>
+        </methods>
+      </class> <!-- com.yogesh.nipte.tests.amazon.products.SearchProductTest -->
+    </classes>
+  </test> <!-- Realme(failed) -->
+  <test thread-count="5" parallel="tests" name="Samsung(failed)">
+    <parameter name="productDetails" value="Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer"/>
+    <parameter name="productName" value="Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Black"/>
+    <classes>
+      <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest">
+        <methods>
+          <include name="ProductSerachLandingPageTest"/>
+          <include name="setDriver"/>
+          <include name="sleep"/>
+          <include name="killDriver"/>
+          <include name="SearchProductTest"/>
+          <include name="setupConfig"/>
+          <include name="setPageObjects"/>
+          <include name="HomePageTest"/>
+        </methods>
+      </class> <!-- com.yogesh.nipte.tests.amazon.products.SearchProductTest -->
+    </classes>
+  </test> <!-- Samsung(failed) -->
+</suite> <!-- Failed suite [Amazon] -->

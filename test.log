@@ -1,0 +1,568 @@
+487  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+544  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+448  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+441  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+514  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+463  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+445  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+450  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+599  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+436  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+446  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+12717 [main] INFO  c.y.n.p.amazon.SamsungSearchPage -- First item in the list is Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger
+445  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+12919 [main] INFO  c.y.n.p.amazon.SamsungSearchPage -- First item in the list is Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger
+467  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml] otherwise TestNG may fail or not work as expected.
+459  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml] otherwise TestNG may fail or not work as expected.
+695  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+507  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+498  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+466  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+491  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+473  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+19969 [TestNG-test-Samsung-3] INFO  c.y.n.p.amazon.SamsungSearchPage -- First item in the list is Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger
+543  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/.cache/JetBrains/IdeaIC2025.1/temp-testng-customsuite.xml
+
+502  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11905 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery
+476  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+10720 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Black, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery
+463  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+10615 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery
+491  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11059 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S25 Ultra 5G Smartphone with Galaxy AI (Titanium Silverblue, 12GB RAM, 256GB Storage), Titanium Frame, Snapdragon 8 Elite, 200 MP Camera with ProVisual Engine and 5000mAh Battery
+440  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11553 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+465  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+10839 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+506  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+12164 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+21541 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+517  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11175 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+20114 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+636  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+13628 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+22558 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Xiaomi 14 CIVI (Shadow Black, 12GB RAM, 512GB Storage)
+32705 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+719  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+13332 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+24015 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Xiaomi 14 CIVI (Shadow Black, 12GB RAM, 512GB Storage)
+37019 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+610  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+12878 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+23266 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+33923 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+765  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+480  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+490  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11912 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+20353 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+29424 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,12GB+512GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+701  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+12396 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+20118 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+28564 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+629  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+11483 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+19061 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+27754 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+471  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+72658 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+78673 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+545  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+8858 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+77157 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+641  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+13043 [TestNG-test-Samsung-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+23655 [TestNG-test-Iphone-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+34206 [TestNG-test-Realme-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+754  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+12273 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+21875 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+35506 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+620  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+21092 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+21288 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+21430 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+842  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+14552 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+14756 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+15031 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+629  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+12406 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+13176 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+21662 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+206  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+211  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+211  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+211  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+211  [main] INFO  com.yogesh.nipte.utils.Config -- browser = chrome 
+211  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+211  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+284  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+288  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+288  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+289  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+289  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+289  [main] INFO  com.yogesh.nipte.utils.Config -- browser = chrome 
+289  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+289  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+209  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+212  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- browser = chrome 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+213  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+213  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+213  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+214  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+214  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+214  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+279  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+283  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- browser = chrome 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+283  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+284  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+284  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+284  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+512  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+532  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+533  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+545  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+566  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+567  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+567  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+13673 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+13930 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,12GB+512GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+14309 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+813  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+840  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+842  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+842  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+842  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+843  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+843  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+843  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+843  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+13223 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+13656 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+13866 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+565  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+586  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+587  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+587  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+587  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+587  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+587  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+588  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+588  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+511  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+533  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+534  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.url = http://%s:4444/wd/hub 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+534  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+471  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+490  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+493  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+493  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+516  [TestNG-tests-3] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+516  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+516  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+10951 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+11435 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+19198 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)
+532  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+555  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+556  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+556  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+580  [TestNG-tests-3] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+580  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+580  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+9476 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+9702 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+18792 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+738  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/src/test/resources/test-suites/product-search.xml
+
+758  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+759  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+759  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+759  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+759  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+760  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+760  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+760  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+791  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+791  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+791  [TestNG-tests-3] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+69813 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)
+72071 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+168140 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+613  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+617  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+617  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+617  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+617  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+618  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+618  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+618  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+636  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+636  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+68715 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+69403 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+99910 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+166950 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO Neo 10R 5G (Moonknight Titanium, 12GB RAM, 256GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours
+198204 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+198206 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+198207 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+198207 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+198208 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+198209 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+198210 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+198211 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+198214 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+198214 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+265206 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 5G AI Smartphone (Onyx Black, 8GB, 256GB Storage)
+265668 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+296170 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+363059 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+392  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+395  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+395  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+395  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+396  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+396  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+396  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+396  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+412  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+412  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+28548 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO 13 5G (Nardo Grey, 12GB RAM, 256GB Storage)
+28628 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+29970 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+57221 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display
+58515 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+58517 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+58517 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+58518 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+58518 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+58519 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+58519 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+58519 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+58523 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+58523 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+85242 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+86188 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO 13 5G (Nardo Grey, 12GB RAM, 256GB Storage)
+87477 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+113887 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display
+653  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+658  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+658  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+659  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+659  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+659  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+659  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+659  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+685  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+685  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+28430 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO 13 5G (Nardo Grey, 12GB RAM, 256GB Storage)
+29969 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+29982 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+57153 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 256GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display
+58585 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+58587 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+58587 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+58588 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+58588 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+58589 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+58589 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+58590 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+58593 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+58594 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+86237 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO 13 5G (Nardo Grey, 12GB RAM, 256GB Storage)
+86495 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+87461 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+114234 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+397  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+401  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+401  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+401  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+401  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+401  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+402  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+402  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+418  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+418  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+27681 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO Neo 10R 5G (Raging Blue, 8GB RAM, 128GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours
+27845 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+28708 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+56561 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+67870 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+67871 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+67871 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+67872 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+67872 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+67873 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+67873 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+67873 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+67876 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+67876 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+94854 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+94882 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+95984 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+123165 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+442  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+446  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+446  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+446  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+447  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+447  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+447  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+447  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+470  [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+470  [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+18010 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+18124 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+19589 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+37058 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+43341 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+43342 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+43343 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+43344 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+43344 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+43345 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+43346 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = true 
+43346 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+43350 [TestNG-tests-1] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+43350 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+60303 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+61435 [TestNG-tests-2] INFO  c.y.nipte.tests.amazon.BaseTest -- hub url is http://localhost:4444/wd/hub
+61783 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iQOO Neo 10R 5G (Raging Blue, 8GB RAM, 128GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours
+78832 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+421  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+426  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+426  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+426  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+426  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+427  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+427  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+427  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+20579 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+20914 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+37385 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+42590 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+42591 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+42592 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+42593 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+42593 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+42593 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+42594 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+42594 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+61962 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Astral Trail)
+62626 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+78971 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+381  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+387  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+387  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+388  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+388  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+388  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+388  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+388  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+19389 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Astral Trail)
+19931 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+44081 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)
+49700 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+49701 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+49702 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+49702 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+49702 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+49703 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+49704 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+49704 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+68448 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+68795 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+93903 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+482  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+486  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+486  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+486  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+487  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+487  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+487  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+487  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+20042 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+20691 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+45309 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+50509 [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+50510 [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+50511 [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+50512 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+50512 [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+50512 [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+50513 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+50513 [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+69231 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+70161 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+93721 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 Dream Edition (Aston Martin Green,16GB+512GB) | Co-Designed with Aston Martin Aramco F1 Team | India’s 1st MTK D9400e | Strongest Battery Combo 7000mAh+120W | AI 4K 120FPS Travel Camera
+357  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+360  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+360  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+360  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+360  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+360  [main] INFO  com.yogesh.nipte.utils.Config -- browser = firefox 
+361  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+361  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+18181 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium
+19100 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer
+43467 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is 2 Pack Memory Card 128GB with SD Adapter, High Speed Micro SD Card, UHS-I C10 A1 U3 Memory TF Card for Tablet/Mobile Phone/Camera/Car Audio/Game Console (TF171 Red Black 128GB)
+570  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /home/yogesh/Documents/Study/Selenium/selenium-docker/target/docker-resources/test-suites/product-search.xml
+
+592  [main] INFO  c.yogesh.nipte.utils.ResourceLoader -- reading resource from location  config/default.properties
+593  [main] INFO  com.yogesh.nipte.utils.Config -- Test Properties 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- ------------------------------------- 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.urlformat = http://%s:4444/wd/hub 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- amazon.baseurl = https://www.amazon.in 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- browser = chrome 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.enabled = false 
+593  [main] INFO  com.yogesh.nipte.utils.Config -- selenium.grid.hubHost = localhost 
+23746 [TestNG-tests-3] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene
+23785 [TestNG-tests-2] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium
+23871 [TestNG-tests-1] INFO  c.y.n.p.a.ProductSearchLandingPage -- First item in the list is Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer

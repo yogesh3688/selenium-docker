@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<suite name="Amazon" parallel="tests">
+    <test name="Samsung">
+        <parameter  name="productName" value="Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Black"/>
+        <parameter  name="productDetails" value="Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer"/>
+        <classes>
+            <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest"/>
+        </classes>
+    </test>
+    <test name="Iphone">
+        <parameter  name="productName" value="iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control"/>
+        <parameter  name="productDetails" value="iPhone 16 Pro Max 512 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Natural Titanium"/>
+        <classes>
+            <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest"/>
+        </classes>
+    </test>
+    <test name="Realme">
+        <parameter  name="productName" value="realme gt 7 dream edition phone"/>
+        <parameter  name="productDetails" value="realme GT 7 (IceSense Blue,8GB+256GB) | India's 1st MediaTek Dimensity 9400e Chipset | Strongest Battery Combo 7000mAh + 120W | AI 4K 120FPS Travel Camera | 360° Cooling IceSense Design with Graphene"/>
+        <classes>
+            <class name="com.yogesh.nipte.tests.amazon.products.SearchProductTest"/>
+        </classes>
+    </test>
+
+</suite>
