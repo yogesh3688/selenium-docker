@@ -13,7 +13,7 @@
 //                 }
 //             }
             steps {
-            echo "Build Jar started....."
+            echo "Build Jar started......"
             sh 'mvn clean package -DskipTests'
             }
         }
