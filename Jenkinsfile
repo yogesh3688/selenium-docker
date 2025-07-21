@@ -3,6 +3,18 @@
     agent any
 
     stages {
+        stage('Checkout') {
+            steps {
+                git(
+                    url: 'https://github.com/yogesh3688/selenium-docker.git',
+                    credentialsId: 'github-creds',
+                    branch: 'main'
+                )
+            }
+        }
+      }
+
+    stages {
 
         stage('Build Jar'){
 
