@@ -35,7 +35,7 @@
                 echo "pushing docker image"
 //                 sh "docker login -u ${DOCKER_HUB_USR} -p ${DOCKER_HUB_PSW}"
                 sh 'echo ${DOCKER_HUB_PSW} | docker login -u ${DOCKER_HUB_USR}  --password-stdin'
-                sh 'docker push yogesh3688/selenium:lates'
+                sh 'docker push yogesh3688/selenium:latest'
                 sh "docker tag yogesh3688/selenium:latest yogesh3688/selenium:${env.BUILD_NUMBER}"
                 sh "docker push yogesh3688/selenium:${env.BUILD_NUMBER}"
                 }
