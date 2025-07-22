@@ -11,13 +11,16 @@
 # Let's print what we have received
 echo "-------------------------------------------"
 echo "HUB_HOST      : ${HUB_HOST:-hub}"
-echo "BROWSER       : ${BROWSER:-chrome}"
+echo "BROWSER       : ${BROWSER:-firefox}"
 echo "THREAD_COUNT  : ${THREAD_COUNT:-1}"
 echo "TEST_SUITE    : ${TEST_SUITE}"
 echo "-------------------------------------------"
 
 # Do not start the tests immediately. Hub has to be ready with browser nodes
 echo "Checking if hub is ready..!"
+echo "hub_host is ---> "
+echo ${HUB_HOST}
+
 count=0
 while [ "$( curl -s http://${HUB_HOST:-hub}:4444/status | jq -r .value.ready )" != "true" ]
 do
@@ -38,7 +41,7 @@ echo "Selenium Grid is up and running. Running the test...."
 java -cp 'libs/*' \
      -Dselenium.grid.enabled=true \
      -Dselenium.grid.hubHost="${HUB_HOST:-hub}" \
-     -Dbrowser="${BROWSER:-chrome}" \
+     -Dbrowser="${BROWSER:-firefox}" \
      org.testng.TestNG \
      -threadcount "${THREAD_COUNT:-1}" \
      test-suites/"${TEST_SUITE}"
