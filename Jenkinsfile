@@ -23,7 +23,7 @@
         stage('Build Image'){
             steps {
                 echo "building docker image"
-                sh 'docker build -t=yogesh3688/selenium:latest .''
+                sh 'docker build -t=yogesh3688/selenium:latest .'
             }
 
         }
